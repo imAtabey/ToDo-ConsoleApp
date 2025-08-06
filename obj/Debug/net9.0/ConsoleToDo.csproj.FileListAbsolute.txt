@@ -1,0 +1,14 @@
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\bin\Debug\net9.0\ConsoleToDo.exe
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\bin\Debug\net9.0\ConsoleToDo.deps.json
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\bin\Debug\net9.0\ConsoleToDo.runtimeconfig.json
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\bin\Debug\net9.0\ConsoleToDo.dll
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\bin\Debug\net9.0\ConsoleToDo.pdb
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\obj\Debug\net9.0\ConsoleToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\obj\Debug\net9.0\ConsoleToDo.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\obj\Debug\net9.0\ConsoleToDo.AssemblyInfo.cs
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\obj\Debug\net9.0\ConsoleToDo.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\obj\Debug\net9.0\ConsoleToDo.dll
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\obj\Debug\net9.0\refint\ConsoleToDo.dll
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\obj\Debug\net9.0\ConsoleToDo.pdb
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\obj\Debug\net9.0\ConsoleToDo.genruntimeconfig.cache
+C:\Users\husey\Desktop\PatikaDev\ConsoleToDo\obj\Debug\net9.0\ref\ConsoleToDo.dll
